@@ -1,0 +1,1 @@
+print(letter.replace("<|Date|>",Date))
